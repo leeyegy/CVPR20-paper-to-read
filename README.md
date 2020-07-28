@@ -44,10 +44,11 @@
 #### [1.14 LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud-based Deep Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_LG-GAN_Label_Guided_Adversarial_Network_for_Flexible_Targeted_Attack_of_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/RyanHangZhou/LG-GAN)
 
+---
+
 ### code unavailable
 
-#### [2.1Polishing Decision-Based Adversarial Noise With a Customized Sampling.
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_Polishing_Decision-Based_Adversarial_Noise_With_a_Customized_Sampling_CVPR_2020_paper.pdf)
+#### [1.15 Polishing Decision-Based Adversarial Noise With a Customized Sampling](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_Polishing_Decision-Based_Adversarial_Noise_With_a_Customized_Sampling_CVPR_2020_paper.pdf)
 
 ## 2.2 Achieving Robustness in the Wild via Adversarial Mixing With Disentangled Representations
 >[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gowal_Achieving_Robustness_in_the_Wild_via_Adversarial_Mixing_With_Disentangled_CVPR_2020_paper.pdf)
