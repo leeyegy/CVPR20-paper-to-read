@@ -5,61 +5,48 @@
 #### [1.1 Towards Large yet Imperceptible Adversarial Image Perturbations with Perceptual Color Distance](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Towards_Large_Yet_Imperceptible_Adversarial_Image_Perturbations_With_Perceptual_Color_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/ZhengyuZhao/PerC-Adversarial)
 
-### 1.2 One Man's Trash Is Another Man's Treasure: Resisting Adversarial Examples by Adversarial Examples
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xiao_One_Mans_Trash_Is_Another_Mans_Treasure_Resisting_Adversarial_Examples_CVPR_2020_paper.pdf)
+#### [1.2 One Man's Trash Is Another Man's Treasure: Resisting Adversarial Examples by Adversarial Examples](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xiao_One_Mans_Trash_Is_Another_Mans_Treasure_Resisting_Adversarial_Examples_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/a554b554/DefenseByAttack)
 
-## 1.3 ColorFool: Semantic Adversarial Colorization
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf)
+#### [1.3 ColorFool: Semantic Adversarial Colorization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/smartcameras/ColorFool)
 
-## 1.4 Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transferable_Controllable_and_Inconspicuous_Adversarial_Attacks_on_Person_Re-identification_With_CVPR_2020_paper.pdf)
+#### [1.4 Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transferable_Controllable_and_Inconspicuous_Adversarial_Attacks_on_Person_Re-identification_With_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/whj363636/Adversarial-attack-on-Person-ReID-With-Deep-Mis-Ranking)
 
-## 1.5 Adversarial Robustness: From Self-Supervised Pre-Training to Fine-Tuning
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adversarial_Robustness_From_Self-Supervised_Pre-Training_to_Fine-Tuning_CVPR_2020_paper.pdf)
+#### [1.5 Adversarial Robustness: From Self-Supervised Pre-Training to Fine-Tuning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adversarial_Robustness_From_Self-Supervised_Pre-Training_to_Fine-Tuning_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/TAMU-VITA/Adv-SS-Pretraining)
 
-## 1.6 Efficient Adversarial Training with Transferable Adversarial Examples
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Efficient_Adversarial_Training_With_Transferable_Adversarial_Examples_CVPR_2020_paper.pdf)
+#### [1.6 Efficient Adversarial Training with Transferable Adversarial Examples](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Efficient_Adversarial_Training_With_Transferable_Adversarial_Examples_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/hzzheng93/ATTA)
 
-## 1.7 Modeling Biological Immunity to Adversarial Examples
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Modeling_Biological_Immunity_to_Adversarial_Examples_CVPR_2020_paper.pdf)
+#### [1.7 Modeling Biological Immunity to Adversarial Examples](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Modeling_Biological_Immunity_to_Adversarial_Examples_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/edk208/Modeling-Biological-Immunity)
 
-## 1.8 Towards Achieving Adversarial Robustness by Enforcing Feature Consistency Across Bit Planes
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Addepalli_Towards_Achieving_Adversarial_Robustness_by_Enforcing_Feature_Consistency_Across_Bit_CVPR_2020_paper.pdf)
+#### [1.8 Towards Achieving Adversarial Robustness by Enforcing Feature Consistency Across Bit Planes](https://openaccess.thecvf.com/content_CVPR_2020/papers/Addepalli_Towards_Achieving_Adversarial_Robustness_by_Enforcing_Feature_Consistency_Across_Bit_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/val-iisc/BPFC)
 
-## 1.9 (Oral)A Self-supervised Approach for Adversarial Robustness
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.pdf)
+#### [1.9 (Oral)A Self-supervised Approach for Adversarial Robustness](https://openaccess.thecvf.com/content_CVPR_2020/papers/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/Muzammal-Naseer/NRP)
 
-## 1.10 When NAS Meets Robustness: In Search of Robust Architectures against Adversarial Attacks
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_When_NAS_Meets_Robustness_In_Search_of_Robust_Architectures_Against_CVPR_2020_paper.pdf)
+#### [1.10 When NAS Meets Robustness: In Search of Robust Architectures against Adversarial Attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_When_NAS_Meets_Robustness_In_Search_of_Robust_Architectures_Against_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/gmh14/RobNets)
 
-## 1.11 Enhancing Intrinsic Adversarial Robustness via Feature Pyramid Decoder
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhancing_Intrinsic_Adversarial_Robustness_via_Feature_Pyramid_Decoder_CVPR_2020_paper.pdf)
+#### [1.11 Enhancing Intrinsic Adversarial Robustness via Feature Pyramid Decoder](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhancing_Intrinsic_Adversarial_Robustness_via_Feature_Pyramid_Decoder_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/GuanlinLee/FPD-for-Adversarial-Robustness)
 
-## 1.12 Enhancing Intrinsic Adversarial Robustness via Feature Pyramid Decoder
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahnama_Robust_Design_of_Deep_Neural_Networks_Against_Adversarial_Attacks_Based_CVPR_2020_paper.pdf)
+#### [1.12 Enhancing Intrinsic Adversarial Robustness via Feature Pyramid Decoder](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahnama_Robust_Design_of_Deep_Neural_Networks_Against_Adversarial_Attacks_Based_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/ArashRahnama/RobustLyapunovDNNs)
 
-## 1.13 Old is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.pdf)
+#### [1.13 Old is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/xaggi/OGNet)
 
-## 1.14 LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud-based Deep Networks
->[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_LG-GAN_Label_Guided_Adversarial_Network_for_Flexible_Targeted_Attack_of_CVPR_2020_paper.pdf)
+#### [1.14 LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud-based Deep Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_LG-GAN_Label_Guided_Adversarial_Network_for_Flexible_Targeted_Attack_of_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/RyanHangZhou/LG-GAN)
 
+### code unavailable
 
-# 二、Adversarial Example-code unavailable
-## 2.1Polishing Decision-Based Adversarial Noise With a Customized Sampling.
+#### [2.1Polishing Decision-Based Adversarial Noise With a Customized Sampling.
 >[PAPER LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_Polishing_Decision-Based_Adversarial_Noise_With_a_Customized_Sampling_CVPR_2020_paper.pdf)
 
 ## 2.2 Achieving Robustness in the Wild via Adversarial Mixing With Disentangled Representations
