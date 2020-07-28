@@ -35,7 +35,7 @@
 #### [1.11 Enhancing Intrinsic Adversarial Robustness via Feature Pyramid Decoder](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhancing_Intrinsic_Adversarial_Robustness_via_Feature_Pyramid_Decoder_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/GuanlinLee/FPD-for-Adversarial-Robustness)
 
-#### [1.12 Enhancing Intrinsic Adversarial Robustness via Feature Pyramid Decoder](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahnama_Robust_Design_of_Deep_Neural_Networks_Against_Adversarial_Attacks_Based_CVPR_2020_paper.pdf)
+#### [1.12 Robust Design of Deep Neural Networks against Adversarial Attacks based on Lyapunov Theory](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahnama_Robust_Design_of_Deep_Neural_Networks_Against_Adversarial_Attacks_Based_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/ArashRahnama/RobustLyapunovDNNs)
 
 #### [1.13 Old is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.pdf)
