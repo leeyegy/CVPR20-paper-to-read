@@ -95,3 +95,18 @@
 #### [1.37 PhysGAN: Generating Physical-World-Resilient Adversarial Examples for Autonomous Driving](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kong_PhysGAN_Generating_Physical-World-Resilient_Adversarial_Examples_for_Autonomous_Driving_CVPR_2020_paper.pdf)
 
 #### [1.38 Detecting Adversarial Samples Using Influence Functions and Nearest Neighbors](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cohen_Detecting_Adversarial_Samples_Using_Influence_Functions_and_Nearest_Neighbors_CVPR_2020_paper.pdf)
+
+## 二、Meta-learning
+### Code Available
+
+#### [2.1 Learning to Forget for Meta-Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Baik_Learning_to_Forget_for_Meta-Learning_CVPR_2020_paper.pdf)
+>[CODE](https://github.com/baiksung/L2F)
+
+#### [2.2 Training Noise-Robust Deep Neural Networks via Meta-Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Training_Noise-Robust_Deep_Neural_Networks_via_Meta-Learning_CVPR_2020_paper.pdf)
+>[CODE](https://github.com/ZhenWang-PhD/Training-Noise-Robust-Deep-Neural-Networks-via-Meta-Learning)
+
+#### [2.3 Meta-Transfer Learning for Zero-Shot Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/papers/Soh_Meta-Transfer_Learning_for_Zero-Shot_Super-Resolution_CVPR_2020_paper.pdf)
+>[CODE](https://github.com/JWSoh/MZSR)
+
+
+### Code Unavailable
