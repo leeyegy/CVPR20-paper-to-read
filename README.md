@@ -38,10 +38,7 @@
 #### [1.12 Robust Design of Deep Neural Networks against Adversarial Attacks based on Lyapunov Theory](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahnama_Robust_Design_of_Deep_Neural_Networks_Against_Adversarial_Attacks_Based_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/ArashRahnama/RobustLyapunovDNNs)
 
-#### [1.13 Old is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.pdf)
->[CODE](https://github.com/xaggi/OGNet)
-
-#### [1.14 LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud-based Deep Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_LG-GAN_Label_Guided_Adversarial_Network_for_Flexible_Targeted_Attack_of_CVPR_2020_paper.pdf)
+#### [1.13 LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud-based Deep Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_LG-GAN_Label_Guided_Adversarial_Network_for_Flexible_Targeted_Attack_of_CVPR_2020_paper.pdf)
 >[CODE](https://github.com/RyanHangZhou/LG-GAN)
 
 ---
